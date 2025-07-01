@@ -21,13 +21,11 @@ Here are some ideas to get you started:
 
 I'm Katherine!
 
-🎒 I studied Cell Biology and Microbiology at the University of Minnesota.
+🎒📚 I studied Genetics, Cell Biology and Development and Microbiology at the University of Minnesota 🧬🔬
 
-💻 I am trying to learn as much as I can about bioinformatics and proteomics.
+💻🖱️ I am working as a researcher and trying to learn as much as I can about bioinformatics and proteomics 🤔🦠
 
-🍂 My favorite season is autumn.
-
-
+🍂❤️ My favorite season is autumn. I love wearing oversized hoodies when it gets chilly out :D
 
 
 ## My stats
