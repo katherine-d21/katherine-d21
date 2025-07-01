@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-I'm Katherine!
+Hi there, I'm Katherine!
 
 🎒📚 I studied Genetics, Cell Biology and Development and Microbiology at the University of Minnesota 🧬🔬
 
