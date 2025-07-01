@@ -25,7 +25,7 @@ I'm Katherine!
 
 💻 I am trying to learn as much as I can about bioinformatics and proteomics.
 
-
+🍂 My favorite season is autumn.
 
 
 
