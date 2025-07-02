@@ -40,6 +40,7 @@ Hi there, I'm Katherine!
 
 ◾ Galaxy Training Materials: [My GTN Contributions](https://training.galaxyproject.org/training-material/hall-of-fame/katherine-d21/)
 
+
 ## Select publications
 
 ◾ Do K, Mehta S, Wagner R, Griffin TJ, Jagtap PD. A Clinical Metaproteomics Workflow Implemented within Galaxy Bioinformatics Platform to Analyze Host-Microbiome Interactions Underlying Human Disease. J Vis Exp. 2025 Jan 10;(215). doi: 10.3791/67581. PubMed PMID: 39868694.
@@ -48,6 +49,7 @@ Hi there, I'm Katherine!
 
 ◾ Do K, Mehta S, Wagner R, Bhuming D, Rajczewski AT, Skubitz APN, Johnson JE, Griffin TJ, Jagtap PD. A novel clinical metaproteomics workflow enables bioinformatic analysis of host-microbe dynamics in disease. mSphere. 2024 Jun 25;9(6):e0079323. doi: 10.1128/msphere.00793-23. Epub 2024 May 23. PubMed PMID: 38780289; PubMed Central PMCID: PMC11332332.
 
+◾ [My ORCID profile]((https://orcid.org/0000-0002-1230-8577)
 
 ## My stats
 
