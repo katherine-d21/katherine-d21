@@ -23,7 +23,7 @@ Hi there, I'm Katherine!
 
 🎒📚 I studied Genetics, Cell Biology and Development and Microbiology at the University of Minnesota 🧬🔬
 
-💻🖱️ I am working as a researcher and trying to learn as much as I can about bioinformatics and proteomics, while creating [Galaxy](https://galaxyproject.org/)-based workflows and [training materials](https://training.galaxyproject.org/) 🤔🦠
+💻🖱️ I am working as a researcher on the [Galaxy-P team](https://galaxyp.org/) and trying to learn as much as I can about bioinformatics and proteomics, while creating [Galaxy-based workflows](https://galaxyproject.org/) and [online training materials](https://training.galaxyproject.org/) that promote community adoption of bioinformatic workflows and tools 🤔🦠
 
 🍂❤️ My favorite season is autumn. I love wearing oversized hoodies when it gets chilly out :D
 
