@@ -23,9 +23,28 @@ Hi there, I'm Katherine!
 
 🎒📚 I studied Genetics, Cell Biology and Development and Microbiology at the University of Minnesota 🧬🔬
 
-💻🖱️ I am working as a researcher and trying to learn as much as I can about bioinformatics and proteomics 🤔🦠
+💻🖱️ I am working as a researcher and trying to learn as much as I can about bioinformatics and proteomics, while creating [Galaxy](https://galaxyproject.org/)-based workflows and [training materials](https://training.galaxyproject.org/) 🤔🦠
 
 🍂❤️ My favorite season is autumn. I love wearing oversized hoodies when it gets chilly out :D
+
+
+## My work
+
+🌟	Current project: Developing  a bioinformatic pipeline for mass spectrometry-based analysis of microbial immunopeptides
+
+◾ Aid in data visualization and interpretation and tool development for analytical workflows
+
+◾ Created tutorial materials to encourage community adoption and usage of clinical metaproteomics and neoantigen workflows
+
+◾ Refined scientific writing skills through preparation and publication of two peer-reviewed articles
+
+◾ Galaxy Training Materials: [My GTN Contributions](https://training.galaxyproject.org/training-material/hall-of-fame/katherine-d21/)
+
+## Select publications
+
+◾ Do K, Mehta S, Wagner R, Griffin TJ, Jagtap PD. A Clinical Metaproteomics Workflow Implemented within Galaxy Bioinformatics Platform to Analyze Host-Microbiome Interactions Underlying Human Disease. J Vis Exp. 2025 Jan 10;(215). doi: 10.3791/67581. PubMed PMID: 39868694.
+◾ Kruk ME, Mehta S, Murray K, Higgins L, Do K, Johnson JE, Wagner R, Wendt CH, O'Connor JB, Harris JK, Laguna TA, Jagtap PD, Griffin TJ. An integrated metaproteomics workflow for studying host-microbe dynamics in bronchoalveolar lavage samples applied to cystic fibrosis disease. mSystems. 2024 Jul 23;9(7):e0092923. doi: 10.1128/msystems.00929-23. Epub 2024 Jun 27. PubMed PMID: 38934598; PubMed Central PMCID: PMC11264604.
+◾ Do K, Mehta S, Wagner R, Bhuming D, Rajczewski AT, Skubitz APN, Johnson JE, Griffin TJ, Jagtap PD. A novel clinical metaproteomics workflow enables bioinformatic analysis of host-microbe dynamics in disease. mSphere. 2024 Jun 25;9(6):e0079323. doi: 10.1128/msphere.00793-23. Epub 2024 May 23. PubMed PMID: 38780289; PubMed Central PMCID: PMC11332332.
 
 
 ## My stats
