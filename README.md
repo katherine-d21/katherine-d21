@@ -43,7 +43,9 @@ Hi there, I'm Katherine!
 ## Select publications
 
 ◾ Do K, Mehta S, Wagner R, Griffin TJ, Jagtap PD. A Clinical Metaproteomics Workflow Implemented within Galaxy Bioinformatics Platform to Analyze Host-Microbiome Interactions Underlying Human Disease. J Vis Exp. 2025 Jan 10;(215). doi: 10.3791/67581. PubMed PMID: 39868694.
+
 ◾ Kruk ME, Mehta S, Murray K, Higgins L, Do K, Johnson JE, Wagner R, Wendt CH, O'Connor JB, Harris JK, Laguna TA, Jagtap PD, Griffin TJ. An integrated metaproteomics workflow for studying host-microbe dynamics in bronchoalveolar lavage samples applied to cystic fibrosis disease. mSystems. 2024 Jul 23;9(7):e0092923. doi: 10.1128/msystems.00929-23. Epub 2024 Jun 27. PubMed PMID: 38934598; PubMed Central PMCID: PMC11264604.
+
 ◾ Do K, Mehta S, Wagner R, Bhuming D, Rajczewski AT, Skubitz APN, Johnson JE, Griffin TJ, Jagtap PD. A novel clinical metaproteomics workflow enables bioinformatic analysis of host-microbe dynamics in disease. mSphere. 2024 Jun 25;9(6):e0079323. doi: 10.1128/msphere.00793-23. Epub 2024 May 23. PubMed PMID: 38780289; PubMed Central PMCID: PMC11332332.
 
 
