@@ -49,7 +49,7 @@ Hi there, I'm Katherine!
 
 ◾ Do K, Mehta S, Wagner R, Bhuming D, Rajczewski AT, Skubitz APN, Johnson JE, Griffin TJ, Jagtap PD. A novel clinical metaproteomics workflow enables bioinformatic analysis of host-microbe dynamics in disease. mSphere. 2024 Jun 25;9(6):e0079323. doi: 10.1128/msphere.00793-23. Epub 2024 May 23. PubMed PMID: 38780289; PubMed Central PMCID: PMC11332332.
 
-◾ [My ORCID profile]((https://orcid.org/0000-0002-1230-8577)
+◾ [My ORCID profile](https://orcid.org/0000-0002-1230-8577)
 
 ## My stats
 
