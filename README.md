@@ -30,7 +30,7 @@ Hi there, I'm Katherine!
 
 ## My work
 
-🌟	Current project: Developing a bioinformatic pipeline for mass spectrometry-based analysis of microbial immunopeptides, melding immunopeptidomics with metaproteomics
+🌟	Current project: Developing [Meta-iPep](https://doi.org/10.5281/zenodo.15777084), a bioinformatic pipeline for mass spectrometry-based analysis of microbial immunopeptides, melding immunopeptidomics with metaproteomics
 
 ◾ Aid in data visualization and interpretation and tool development for analytical workflows
 
